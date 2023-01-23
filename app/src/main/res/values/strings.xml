@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Android3_Lesson4_HW4_Perizat</string>
+    <string name="paris">Paris</string>
+    <string name="paris_image">https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg/1200px-La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg</string>
+    <string name="paris_description">The Eiffel Tower (la Tour Eiffel) ranks high on the list of places to visit in France and is the most-visited tourist attraction in the world.It\'s hard to believe that the structure was dismissed as a monstrosity when it was first unveiled. The iconic tower was designed by Alexandre-Gustave Eiffel for the Paris Exhibition of 1889, which marked the centenary of the French Revolution.</string>
+    <string name="peru">Machu Picchu, Peru</string>
+    <string name="peru_image">https://www.holidify.com/images/cmsuploads/compressed/Machu_Picchu_early_morning_20181214131409.JPG</string>
+    <string name="peru_description">One of the most recently discovered ruins, the Incan ruins of Machu Picchu continue to astound historians, archaeologists and historical enthusiasts alike. A mystery of its real purpose surrounds the place and historians till date continue to debate on the matter</string>
+    <string name="rome">Colosseum, Rome</string>
+    <string name="rome_image">https://www.holidify.com/images/cmsuploads/compressed/15988567539_f8c9a23efe_b_20190111143112.jpg</string>
+    <string name="rome_description">The Colosseum is one of the most famous attractions in Rome and is where most gladiatorial fights took place. Today, actors in gladiator clothes stand outside the Colosseum, where you can take pictures with them (for a price!) The Colosseum is a testament to the ingenuity of the builders, having stood the test of time.</string>
+    <string name="london">London,England</string>
+    <string name="london_image">https://www.holidify.com/images/bgImages/LONDON.jpg</string>
+    <string name="london_description">Standing on the Thames River, London is the capital of England as well as the most populous city in Great Britain.London is made of two ancient cities which are now merged together to form the capital. The two cities are The city of London and the City of Westminster.</string>
+    <string name="pamukkale">Pamukkale,Turkey</string>
+    <string name="pamukkale_image">https://www.holidify.com/images/bgImages/PAMUKALLE.jpg</string>
+    <string name="pamukkale_description">Pamukkale is a city located in the western side of Turkey. This city is called the city of minerals as there are a lot of minerals left on the shores of this city by flowing water. Called as the natural spa this place has tourism as one of its major industries.</string>
+    <string name="phuket">Phuket,Thailand</string>
+    <string name="phuket_image">https://www.holidify.com/images/bgImages/PHUKET.jpg</string>
+    <string name="phuket_description">The largest Island in all of Thailand, Phuket has everything Thailand has to offer.Golden beaches, numerous offshore islands, upbeat markets, a high octane nightlife and thrilling watersports characterise Phuket in a nutshell.</string>
+    <string name="new_york">New York,USA</string>
+    <string name="new_york_image">https://www.holidify.com/images/bgImages/NEW-YORK-CITY.jpg</string>
+    <string name="new_york_description">An iconic global centre of the world that has inspired the world with its brilliant architecture, movies, and art. Also known as the Big Apple, New York is well-known for its magnificent skyscrapers, Broadway shows and beautiful landmarks, making it the perfect destination for travellers from all over the world.</string>
+    <string name="barcelona">Barcelona,Spain</string>
+    <string name="barcelona_image">https://www.holidify.com/images/bgImages/BARCELONA.jpg</string>
+    <string name="barcelona_description">Hans Christian Anderson described Barcelona as the \"Paris of Spain\" because of its resemblance with the French atmosphere. The city has a beautiful charm and a rich cultural significance. It is the capital city of autonomous community of Catalonia in Spain and the second largest city in Spain.</string>
+</resources>
